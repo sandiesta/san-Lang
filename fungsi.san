@@ -1,0 +1,3 @@
+fungsi dicoba() -> cetak "ini hasil dari fungsi"
+
+dicoba()

@@ -1,0 +1,4 @@
+cetak "ini tidak ada petiknya"
+
+a="ini ada petiknya"
+cetak a
