@@ -1,15 +1,15 @@
 # san-Lang
 Tugas Akhir Teknik Kompilasi
 
-##Nama Kelompok:
+## Nama Kelompok:
 Anindya Heranika
 Muhammad Ikhsan Hadi
 Rafi el Falih
 
 ---
 
-#Dokumentasi
-##Perintah di bahasa ini
+# Dokumentasi
+## Perintah di bahasa ini
 
 | SAN-LANG     |  MEAN  |
 | --------     |  ----  |
