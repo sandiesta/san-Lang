@@ -12,12 +12,12 @@ Membuat bahasa pemrograman menggunakan python dan library SLY
 # Dokumentasi
 ## Perintah di bahasa ini
 
-| SAN-LANG     |  MEAN  |
+| San-Lang     |  Arti  |
 | --------     |  ----  |
 | jika         |  IF    |
 | cetak        |  PRINT |
 | maka         |  THEN  |
-| namun_jika   |  ELSE  |
+| jika_tidak   |  ELSE  |
 | untuk        |  FOR   |
 | fungsi       |  FUN   |
 | sampai       |  TO    |
@@ -106,7 +106,7 @@ untuk i=0 sampai 5 maka cetak i
 
 ### Fungsi
 
-> untuk _index1_ sampai _index2_ maka _stmt_
+> fungsi _namaFungsi_() -> _kode_
 
 **kode:**
 ```
