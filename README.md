@@ -2,9 +2,9 @@
 Tugas Akhir Teknik Kompilasi
 
 ## Nama Kelompok:
-Anindya Heranika
-Muhammad Ikhsan Hadi
-Rafi el Falih
+1. Anindya Heranika
+2. Muhammad Ikhsan Hadi
+3. Rafi el Falih
 
 ---
 
