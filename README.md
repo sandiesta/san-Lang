@@ -17,7 +17,7 @@ Membuat bahasa pemrograman menggunakan python dan library SLY
 | jika         |  IF    |
 | cetak        |  PRINT |
 | maka         |  THEN  |
-| jika_tidak   |  ELSE  |
+| jktidak      |  ELSE  |
 | untuk        |  FOR   |
 | fungsi       |  FUN   |
 | sampai       |  TO    |
