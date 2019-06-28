@@ -10,7 +10,7 @@ class BasicLexer(Lexer):
     PRINT = r'cetak'
     IF = r'jika'
     THEN = r'maka'
-    ELSE = r'jika_tidak'
+    ELSE = r'jktidak'
     FOR = r'untuk'
     FUN = r'fungsi'
     TO = r'sampai'
